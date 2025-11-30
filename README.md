@@ -52,7 +52,7 @@
    + `ps aux | grep 이름` : **특정 이름을 포함한 프로세스만 검색해서 보기**
    + `ps -u USER` : **특정 사용자(USER)가 실행 중인 프로세스만 보기**
    + `PS -p PID` : **특정 PID 하나에 대한 정보만 보기**
-
+<img width="463" height="102" alt="Image" src="https://github.com/user-attachments/assets/9b542b65-8beb-4a2a-84d7-9cb1a71e7941" />
 ---
 #### 3. *`jobs`*
 
