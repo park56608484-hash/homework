@@ -27,6 +27,8 @@
   + `P` : **CPU 사용량 기준으로 정렬**
   + `M` : **메모리 사용량 기준으로 정렬**
   + `1` : **각 CPU 코어별 사용량 표시/숨기기**
+
+<img width="942" height="253" alt="Image" src="https://github.com/user-attachments/assets/d9af718e-4d5c-40a5-9e58-871dc9ee3567" />
  
 ---
 
